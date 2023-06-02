@@ -3,8 +3,6 @@ Yassine Assaadi: Prediction of energy consumption and GHG emission for Seattle c
 
 Dara source: https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
 
-![image](https://github.com/Yassaadi/energy_ghg_prediction/assets/106546639/816cf40b-d359-4d0a-a3c2-8d53a1ffac4c)
-
 ![Diapositive1](https://github.com/Yassaadi/energy_ghg_prediction/assets/106546639/2dca335e-a04d-4a6b-805c-adaef0e9d84f)
 ![Diapositive3](https://github.com/Yassaadi/energy_ghg_prediction/assets/106546639/63ebecb5-a12a-43ad-859f-790b2cc6ba58)
 ![Diapositive4](https://github.com/Yassaadi/energy_ghg_prediction/assets/106546639/1d713edc-4744-477f-af4a-0cce5a6557c8)
